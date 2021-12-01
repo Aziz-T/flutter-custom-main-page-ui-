@@ -41,7 +41,7 @@ class PanelWidget extends StatelessWidget {
         children: <Widget> [
 
           Container( padding: EdgeInsets.all(10.0), child: Text("Baslık", style: TextStyle(fontSize: 25.0, color: Colors.white)), ),
-          Container( padding: EdgeInsets.all(10.0), child: Icon(Icons.ac_unit, color: Colors.white, size: 40.0,), ),
+          Container( padding: EdgeInsets.all(10.0), child: Icon(Icons.ac_unit, color: Colors.white, size: 80.0,), ),
         ],
       ),
     );
